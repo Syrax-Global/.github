@@ -50,7 +50,7 @@ ownership notice. Start with a repository's own README.
 | Payment platform | Core API, customer portal, administration console, API documentation |
 | Wallet services | Address derivation, deposit detection and payouts, per chain family |
 | Self-custody | Smart-account wallet, chain infrastructure |
-| Token | SRX contracts — **[`srx-contracts`](https://github.com/Syrax-Global/srx-contracts) is public** and independently audited |
+| Token | SRX contracts — **[`srx-contracts`](https://github.com/Syrax-Global/srx-contracts) is public**, testnet only, with its review history and open items published alongside the code |
 | Platform modules | Rewards, intelligence, security tooling |
 | Internal systems | Orchestration, dashboards, automation |
 
