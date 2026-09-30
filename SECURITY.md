@@ -2,7 +2,7 @@
 
 ## Reporting a vulnerability
 
-Report suspected vulnerabilities privately to **info@syrax.global**. Do not open a
+Report suspected vulnerabilities privately to **security@syrax.global**. Do not open a
 public issue, and do not disclose the detail publicly until we have responded.
 
 Please include what you found, how to reproduce it, and what you believe the impact
