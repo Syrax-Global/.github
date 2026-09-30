@@ -56,7 +56,7 @@ ownership notice. Start with a repository's own README.
 
 ## Security
 
-Report a suspected vulnerability privately to **info@syrax.global** — never in a public
+Report a suspected vulnerability privately to **security@syrax.global** — never in a public
 issue.
 
 ⛔ **Do not include the credential you found.** If you have discovered an exposed key,
