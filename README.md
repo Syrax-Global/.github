@@ -36,5 +36,5 @@ A change touching any of the above needs sign-off **before** it is merged, not a
 
 ## Security
 
-See [`SECURITY.md`](SECURITY.md). Report privately to **info@syrax.global** — never in a public
+See [`SECURITY.md`](SECURITY.md). Report privately to **security@syrax.global** — never in a public
 issue, and never by pasting the credential you found.
