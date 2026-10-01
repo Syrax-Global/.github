@@ -6,8 +6,7 @@ Digital asset technology company based in Dubai, United Arab Emirates.
 > **This is the official GitHub organisation of Syrax Global FZCO.** No other GitHub
 > account or organisation using the "Syrax" name is affiliated with us, with one
 > exception: [`@SyraxGlobal`](https://github.com/SyraxGlobal), a company-held account
-> that currently hosts our website repositories for hosting-plan reasons and will move
-> into this organisation.
+> that is a member of this organisation. All Syrax repositories live here.
 
 Syrax Global FZCO is the holding company for the group. It owns the intellectual
 property, the domains and the brand.
