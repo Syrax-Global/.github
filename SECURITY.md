@@ -9,8 +9,13 @@ Please include what you found, how to reproduce it, and what you believe the imp
 is. If you have a proof of concept, say so rather than attaching exploit code in the
 first message.
 
-We aim to acknowledge a report within **two working days** and to give an assessment
-within **ten working days**.
+**Response times**
+
+| Stage | Our commitment |
+|---|---|
+| Acknowledgement | Within 24 hours of receipt, with a reference number |
+| Initial triage (scope, plausibility, initial severity) | Within 72 hours of receipt |
+| Status updates | At least every 7 days until the report is resolved |
 
 ## What we ask
 
